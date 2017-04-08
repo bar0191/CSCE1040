@@ -1,0 +1,6 @@
+CSCE1040  Computer Science II   Computer Science & Engineering
+EENG1000  Shocks Hurt I         Electrical Engineering
+ID001  Brandon  CSCE
+ID002  John     EENG
+ID003  Mary     EENG
+
